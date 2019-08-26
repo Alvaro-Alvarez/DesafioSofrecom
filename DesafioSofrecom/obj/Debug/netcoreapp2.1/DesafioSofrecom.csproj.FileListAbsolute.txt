@@ -1,0 +1,11 @@
+C:\Users\Alvaro\source\repos\DesafioSofrecom\DesafioSofrecom\bin\Debug\netcoreapp2.1\DesafioSofrecom.deps.json
+C:\Users\Alvaro\source\repos\DesafioSofrecom\DesafioSofrecom\bin\Debug\netcoreapp2.1\DesafioSofrecom.runtimeconfig.json
+C:\Users\Alvaro\source\repos\DesafioSofrecom\DesafioSofrecom\bin\Debug\netcoreapp2.1\DesafioSofrecom.runtimeconfig.dev.json
+C:\Users\Alvaro\source\repos\DesafioSofrecom\DesafioSofrecom\bin\Debug\netcoreapp2.1\DesafioSofrecom.dll
+C:\Users\Alvaro\source\repos\DesafioSofrecom\DesafioSofrecom\bin\Debug\netcoreapp2.1\DesafioSofrecom.pdb
+C:\Users\Alvaro\source\repos\DesafioSofrecom\DesafioSofrecom\obj\Debug\netcoreapp2.1\DesafioSofrecom.csprojAssemblyReference.cache
+C:\Users\Alvaro\source\repos\DesafioSofrecom\DesafioSofrecom\obj\Debug\netcoreapp2.1\DesafioSofrecom.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\source\repos\DesafioSofrecom\DesafioSofrecom\obj\Debug\netcoreapp2.1\DesafioSofrecom.AssemblyInfoInputs.cache
+C:\Users\Alvaro\source\repos\DesafioSofrecom\DesafioSofrecom\obj\Debug\netcoreapp2.1\DesafioSofrecom.AssemblyInfo.cs
+C:\Users\Alvaro\source\repos\DesafioSofrecom\DesafioSofrecom\obj\Debug\netcoreapp2.1\DesafioSofrecom.dll
+C:\Users\Alvaro\source\repos\DesafioSofrecom\DesafioSofrecom\obj\Debug\netcoreapp2.1\DesafioSofrecom.pdb
